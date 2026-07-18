@@ -1,0 +1,35 @@
+body {
+    background-color: lightblue;
+    height: 100vh;
+}
+
+h2 {
+    color: red;
+    text-align: center;
+    background-color: green;
+}
+
+.book-header {
+    color: rgb(0, 255, 72);
+    border-style: solid;
+    border-width: 10px;
+
+}
+
+.first-div {
+    height: 200px;
+    width: 50%;
+    background-color: bisque;
+    border-style: solid;
+    border-width: 10px;
+    /* padding: 40px; */
+    border-color: red;
+
+}
+
+.sec-div {
+    height: 120px;
+    margin: 40px;
+    background-color: rgb(160, 89, 2);
+
+}
